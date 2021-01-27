@@ -1,2 +1,3 @@
-# ml5-boilerplate
-A basic html, css, javascript boilerplate for working building a project with ml5.js
+# Video-image Recognition for Animals
+
+By using ML5.js library, we can create a simple recognition module using P5.js with ML5 for animals.
